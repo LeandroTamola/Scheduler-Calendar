@@ -41,6 +41,7 @@ npm start
 
 - **Leandro Támola**
 
-## Demo Image
+## Demo Recording
 
-<img src="" alt="Scheduler" width="80%"/>
+<img src="https://user-images.githubusercontent.com/67109855/167271291-bef2c6b0-4e78-4e5f-a920-c261ea384611.gif" width="80%" alt="demo recording" />
+
